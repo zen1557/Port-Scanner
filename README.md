@@ -1,6 +1,6 @@
-# Python Programs
+# PORT SCANNER
 
-Platform = Linux 
+Simple Port Scanner Program Made In Python for Linux System
 
 I used Python 2 Libaries so use old version to use or default if you want to run in python3 so edit the code nd change that to ``print 'hello '`` to ``print('hello')`` then you can use in py3
 
